@@ -1,0 +1,10 @@
+{
+  "name": "js-helpers",
+  "version": "1.0.0",
+  "description": "A collection of helpers to replace lodash/underscore.",
+  "main": "index.js",
+  "repository": "git@github.com:SolDes/helpers.git",
+  "author": "R+D",
+  "license": "MIT",
+  "private": false
+}
